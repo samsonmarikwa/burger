@@ -3,7 +3,7 @@ Eat-Da-Burger is a restaurant application that lets users input burgers they wou
 
 
 ## Setup
-The application uses Express web server, Handlebars template engine - partials have also been used in displaying the Available and Devoured sections. A MySQL database has been used for persistence. Ajax has been used to communicate from the front-end to the backend APIs. The application coding is layed out following the MVC model to interact with the database. I have also developed the ORM framework to interact with the database. The objective of developing an ORM is to have an understanding of the underlying design of the existing ORM Frameworks on the market such as sequelize.
+The application uses Express web server, Handlebars template engine - partials have also been used in displaying the Available and Devoured sections. A MySQL database has been used for persistence. Ajax has been used to communicate from the front-end to the backend APIs. The application coding is layed out following the MVC model. I have also developed an ORM framework to interact with the database. The objective of developing the ORM is to have an understanding of the underlying design of the existing ORM Frameworks on the market such as Sequelize.
 
 ## Access
 The application can be accessed on [Heroku](https://glacial-fjord-45128.herokuapp.com/)
