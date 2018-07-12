@@ -1,5 +1,5 @@
 # Eat-Da-Burger
-Eat-Da-Burger is a restaurant application that lets users input burgers they would like to eat. On clicking the Submit button, the burger is saved to a database. The burger is displayed on the web-page in the Available section. If the user clicks the Devout It button which is next to the burger, the burger is moved to the devoured section.
+Eat-Da-Burger is a restaurant application that lets users input burgers they would like to eat. On clicking the Submit button, the burger is saved to a database. The burger is displayed on the web-page in the Available section. If the user clicks the Devour It button which is next to the burger, the burger is moved to the devoured section.
 
 
 ## Setup
